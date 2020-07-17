@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "tictactoe-app"
+    }
+  },
+  "defaultProject": "tictactoe-app",
+  "cli": {
+    "analytics": false
+  }
 }
